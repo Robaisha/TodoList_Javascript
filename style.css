@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(0, 234, 255);
+}
+header {
+  font-size: 40px;
+}
+ul {
+  list-style: none;
+}
+li {
+  font-size: 20px;
+  display: block;
+  height: 70px;
+  width: 100%;
+  margin-bottom: 5%;
+  justify-content: space-around;
+  background-color: rgb(214, 150, 220);
+}
+.d-none {
+  display: none;
+}
+.d-block {
+  display: block;
+}
